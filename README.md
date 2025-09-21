@@ -8,12 +8,6 @@ O modelo reconhece as emoções Feliz, Triste, Medo e Neutro a partir da imagem 
 
 ▶️ Execução
 
-Clone o repositório:
-
-git clone https://github.com/seuusuario/detector-emocoes.git
-cd detector-emocoes
-
-
 Instale as dependências:
 
 pip install -r requirements.txt
